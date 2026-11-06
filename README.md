@@ -19,5 +19,5 @@ Bu projeyi çalıştırmak için aşağıdaki yazılımların yüklü olması ge
 
 1. Bu projeyi bilgisayarınıza klonlayın veya indirin:
    ```bash
-   git clone https://github.com/emirhann46/web-scrapping-1.git
-   cd web-scrapping-1
+   git clone https://github.com/emirhann46/doviz-kuru-scraper.git
+   cd doviz-kuru-scraper
